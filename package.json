@@ -1,0 +1,21 @@
+{
+  "name": "infinite-sequencer",
+  "version": "1.0.0",
+  "description": "Generate pseudo-random sequences of infinite lenght",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michał Wadas",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ginden/infinite-sequencer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Ginden/infinite-sequencer/issues"
+  },
+  "homepage": "https://github.com/Ginden/infinite-sequencer#readme"
+}
